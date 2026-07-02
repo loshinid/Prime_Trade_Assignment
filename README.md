@@ -15,6 +15,8 @@ I used two datasets:
 - Historical trading data from Hyperliquid
 - Bitcoin Fear & Greed Index
 
+**Note:** The historical trading dataset is not included in this repository because it is larger than GitHub's upload limit. Please use the dataset provided in the assignment to run the notebook.
+
 The main goal was to understand how market sentiment (Fear, Greed, Extreme Fear, and Extreme Greed) affects trader performance and trading behavior.
 
 ---
